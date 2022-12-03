@@ -1,6 +1,6 @@
 <div align="center">
 
-    ![nerijus](gitartwork.svg)
+![nerijus](gitartwork.svg)
 
 </div>
 
